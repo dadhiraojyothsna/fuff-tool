@@ -1,5 +1,4 @@
 # fuff-tool
-# This is an example of a ffuf configuration file.
 ### Cybersecurity Cookbook
 
 #### Recipe: Using ffuf for Web Fuzzing in Kali Linux
